@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # fixedwidth_excel_parser.py
 
 import file_specification as spec
